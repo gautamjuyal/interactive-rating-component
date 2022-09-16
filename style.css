@@ -147,3 +147,10 @@ span.hover-previous {
 .thank-you p {
     color: hsl(217, 12%, 63%);
 }
+
+@media (max-width: 465px) {
+    .component1,
+    .component2 {
+        width: 90%;
+    }
+}
